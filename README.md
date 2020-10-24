@@ -1,6 +1,5 @@
 ## React TODO List
-
-<br>
+Basic React Application with comments for guidance. Note- Using local json storage.
 <br>
 
 ### All View
