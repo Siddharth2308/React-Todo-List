@@ -1,3 +1,23 @@
+##React TODO List
+
+<br>
+<br>
+
+###All View
+<img src="/assets/All-View.jpg" width="25%" height="25%" />
+
+<br>
+
+###Completed View
+<img src="/assets/Completed-View.jpg" width="25%" height="25%" />
+
+<br>
+
+###InComplete View
+<img src="/assets/Uncompleted-View.jpg" width="25%" height="25%" />
+
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
