@@ -1,20 +1,20 @@
-##React TODO List
+## React TODO List
 
 <br>
 <br>
 
-###All View
-<img src="/assets/All-View.jpg" width="25%" height="25%" />
+### All View
+<img src="/assets/All-View.JPG" width="25%" height="25%" />
 
 <br>
 
-###Completed View
-<img src="/assets/Completed-View.jpg" width="25%" height="25%" />
+### Completed View
+<img src="/assets/Completed-View.JPG" width="25%" height="25%" />
 
 <br>
 
-###InComplete View
-<img src="/assets/Uncompleted-View.jpg" width="25%" height="25%" />
+### InComplete View
+<img src="/assets/Uncompleted-View.JPG" width="25%" height="25%" />
 
 <br>
 
